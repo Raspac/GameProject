@@ -9,7 +9,7 @@ C++
     un monde ouvert -> liberté du joueur
     
     
-    ?  possibilité d'inventer une langue 
-    ?  avoir plusieur vision d'un meme monde
+ ??  possibilité d'inventer une langue 
+ ??  avoir plusieur vision d'un meme monde
     
   Type de vision -> 1er ou 3eme personne
