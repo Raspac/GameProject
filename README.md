@@ -18,3 +18,7 @@ Choix de l'engine:
         avoir plusieur vision d'un meme monde
     
         Type de vision -> 1er ou 3eme personne
+
+    ## Idee 2 : 
+      Jeu en multijoueur à la among us (un peu un jeu de brain comme un loup garou mais avec 5/6 joueurs max)
+      Un intérêt étant que si l'idée est bonne, les designs visuels et sonores seront relativement simples, et on pourra focus sur le gameplay 
