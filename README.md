@@ -11,7 +11,7 @@ Après avoir un peu regarder et exploré les options en surface, on s'est tourn�
 GoDOT
 
 # Idées:
-    ## Idee 1 : 
+## Idee 1 : 
       Projet de jeu en coop/solo un peu à la Tunic en 3D
         un gameplay penché sur l'exploration, énigmes et combats de boss
         un monde ouvert -> liberté du joueur
@@ -22,6 +22,6 @@ GoDOT
     
         Type de vision -> 1er ou 3eme personne
 
-    ## Idee 2 : 
+## Idee 2 : 
       Jeu en multijoueur à la among us (un peu un jeu de brain comme un loup garou mais avec 5/6 joueurs max)
       Un intérêt étant que si l'idée est bonne, les designs visuels et sonores seront relativement simples, et on pourra focus sur le gameplay 
