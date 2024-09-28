@@ -4,11 +4,11 @@
 C++
 GDScript
 
-##Choix de l'engine:
+## Choix de l'engine:
     
 Après avoir un peu regarder et exploré les options en surface, on s'est tourné vers GoDOT car l'engine est assez développé, a l'air relativement simple à prendre en main et surtout a une très grande base de documentation et de tutoriels.
 
-##GoDOT
+GoDOT
 
     ## Idee 1 : 
       Projet de jeu en coop/solo un peu à la Tunic en 3D
