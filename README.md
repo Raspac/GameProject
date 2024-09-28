@@ -10,6 +10,7 @@ Après avoir un peu regarder et exploré les options en surface, on s'est tourn�
 
 GoDOT
 
+# Idées:
     ## Idee 1 : 
       Projet de jeu en coop/solo un peu à la Tunic en 3D
         un gameplay penché sur l'exploration, énigmes et combats de boss
