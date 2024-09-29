@@ -69,18 +69,18 @@ GoDOT
  	-Joueurs interagissent en vocal
   	-Leur but est de résoudre la salle ( enigme, pve etc). 
    	-Si la salle est résolue, les joueurs doivent se mette d'accord sur un item commun à gagner
-    	-Plusieurs salles avant d'arriver à  la salle du boss, les équipes de 2 changent à chaque nouvelle salle
-    	-Une fois arriver à la salle du boss, s'entame une discussion pour savoir quelle équipe rejoindre.
-     	- Deux possibilités s'offrent à chaque joueur ; l'équipe du boss ou l'équipe contre le boss. 
-      	-Les joueurs choisissent  l'équipe dans laquelle ils sont, en fonction de leur volonté de faire des alliances ou de trahir
-      	 -Système de points recompensant les gagnants ( à balance)
+		-Plusieurs salles avant d'arriver à  la salle du boss, les équipes de 2 changent à chaque nouvelle salle
+		-Une fois arriver à la salle du boss, s'entame une discussion pour savoir quelle équipe rejoindre.
+	 	- Deux possibilités s'offrent à chaque joueur ; l'équipe du boss ou l'équipe contre le boss. 
+	  	-Les joueurs choisissent  l'équipe dans laquelle ils sont, en fonction de leur volonté de faire des alliances ou de trahir
+	  	 -Système de points recompensant les gagnants ( à balance)
 	
 
 
-    Contraintes de developpement : 
-    -> Compliqué à balance 
-    -> Bien repartir gameplay vs interaction
-    -> Developpement de salon vocaux
+	Contraintes de developpement : 
+	-> Compliqué à balance 
+	-> Bien repartir gameplay vs interaction
+	-> Developpement de salon vocaux
 
 
 
